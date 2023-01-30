@@ -13,7 +13,7 @@ I am Informatic Developer.
 - I’m currently student at [Epitech](https://epitech.eu/fr).
 - I’m currently learning reinforcement learning and how to build an ECS.
 - I enjoy playing Rugby and Football, and playing video games.
-- Fun fact: I once had pizza for 17 days straight.
+- Fun fact: I once had tacos for 7 days straight.
 
 
 ## ~Specifications~
@@ -27,7 +27,7 @@ I am Informatic Developer.
 | **Languages(programming)** | Python, C                                  | C++                                 | React Native, JS                       |
 | **Frameworks/Platforms** | Docker, Node.JS, Git                       | Expo Go, Unity                      | Tensorflow, PyTorch                   |
 | **Languages(human)** | French                                     | English                             | 
-| **Other interests** | IA, economics                              |  | Digital Privacy                        |
+| **Other interests** | IA, videogames,Sports                              |  |                         | to clean
 
 
 ## How to run
