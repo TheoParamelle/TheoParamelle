@@ -24,7 +24,7 @@ I am Informatic Developer.
 ## Specifications
 | *Name \ Familiarity* | High                                       | Medium                              | Low                                    |
 | --------------- |--------------------------------------------|-------------------------------------|----------------------------------------|
-| **Languages(programming)** | Python, C                                  | C++                                 | React Native, JS                       |
+| **Languages(programming)** | Python, React Native                                 | C++                                 | C, JS                       |
 | **Frameworks/Platforms** | Docker, Node.JS, Git                       | Expo Go, Unity                      | Tensorflow, PyTorch                   |
 | **Languages(human)** | French                                     | English                             | 
 | **Other interests** | IA, videogames,Sports                              |  |                         | to clean
